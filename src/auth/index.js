@@ -1,5 +1,5 @@
 
 
-export * from './AuthContext';
-export * from './AuthProvider';
-export * from './authReducer';
+export * from './context';
+export * from './pages';
+export * from './types/types'
